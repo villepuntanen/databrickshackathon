@@ -1,4 +1,5 @@
 Empathic Assistant for the Homeless 
 
 
-Link to PDF
+[YourLife Introduction](YourLife.md)
+
